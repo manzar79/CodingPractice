@@ -1,0 +1,5 @@
+C:\Users\Grand\Documents\GitHub\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Grand\Documents\GitHub\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Grand\Documents\GitHub\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Grand\Documents\GitHub\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Grand\Documents\GitHub\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
